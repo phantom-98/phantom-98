@@ -97,3 +97,14 @@
 <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 
+## Projects
+
+- [https://nefentus.com](https://nefentus.com)
+- [https://jsonscout.com](https://jsonscout.com)
+- [https://apenox.com](https://apenox.com)
+- [https://simple-meet.vercel.app](https://simple-meet.vercel.app)
+- [https://mint-solana-token.vercel.app](https://mint-solana-token.vercel.app)
+- [https://anticonceptivo.cl](https://anticonceptivo.cl)
+- [https://mytender.io](https://mytender.io)
+
+...
