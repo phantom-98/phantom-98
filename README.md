@@ -4,7 +4,6 @@
 
 ## My expertise lies in:
 
-### Languages
 <p>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -13,9 +12,10 @@
 <img src="https://img.shields.io/badge/Java-347D7A?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+<img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white"/>
+<img src="https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=white"/>
 </p>
 
-### Frontend
 <p>
 <img src="https://img.shields.io/badge/React-333?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
@@ -36,7 +36,6 @@
 <img src="https://img.shields.io/badge/GSAP-333?style=for-the-badge&logo=greensock&logoColor=88CE02"/>
 </p>
 
-### Backend
 <p>
 <img src="https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express&logoColor=white"/>
@@ -49,7 +48,6 @@
 <img src="https://img.shields.io/badge/Payload_CMS-000?style=for-the-badge&logo=payloadcms&logoColor=white"/>
 </p>
 
-### Web technologies
 <p>
 <img src="https://img.shields.io/badge/SEO-0288D1?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/REST-b11?style=for-the-badge"/>
@@ -62,7 +60,6 @@
 <img src="https://img.shields.io/badge/PeerJS-443?style=for-the-badge"/>
 </p>
 
-### Database
 <p>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
@@ -70,12 +67,9 @@
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
 </p>
 
-### Blockchain
 <p>
 <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white"/>
 <img src="https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white"/>
-<img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white"/>
-<img src="https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=white"/>
 <img src="https://img.shields.io/badge/Anchor-0E7BD8?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3dotjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/ethers.js-2535A0?style=for-the-badge&logo=ethers&logoColor=white"/>
@@ -91,7 +85,6 @@
 <img src="https://img.shields.io/badge/Swing-22BA79?style=for-the-badge"/>
 </p>
 
-### DevOps
 <p>
 <img src="https://img.shields.io/badge/Amazon_EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white"/>
 <img src="https://img.shields.io/badge/AWS_Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white"/>
