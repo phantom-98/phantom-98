@@ -100,6 +100,11 @@
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=phantom-98&theme=buefy"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=phantom-98&size_weight=0&count_weight=1&theme=buefy&layout=compact&langs_count=8&hide=MDX,shell,Dockerfile,Vue,Blade,PHP,SCSS,Makefile,Less,Kotlin"/>
+</p>
+
 ## Projects
 
 - [https://nefentus.com](https://nefentus.com)
