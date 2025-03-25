@@ -1,6 +1,6 @@
 # Skilled full stack web3 engineer
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=phantom-98&label=Profile%20views&color=0e75b6&style=flat" alt="phantom-98" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=phantom-98&label=Profile%20views&color=0e75b6&style=flat?" alt="phantom-98" /> </p>
 
 ## My expertise lies in:
 
@@ -101,8 +101,8 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=phantom-98&theme=buefy"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=phantom-98&size_weight=0&count_weight=1&theme=buefy&layout=compact&langs_count=8&hide=MDX,shell,Dockerfile,Vue,Blade,PHP,SCSS,Makefile,Less,Kotlin"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=phantom-98&theme=buefy?"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=phantom-98&size_weight=0&count_weight=1&theme=buefy&layout=compact&langs_count=8&hide=MDX,shell,Dockerfile,Vue,Blade,PHP,SCSS,Makefile,Less,Kotlin?"/>
 </p>
 
 ## Projects
