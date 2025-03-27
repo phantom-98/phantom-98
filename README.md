@@ -101,8 +101,8 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=phantom-98&theme=buefy?"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=phantom-98&size_weight=0&count_weight=1&theme=buefy&layout=compact&langs_count=8&hide=MDX,shell,Dockerfile,Vue,Blade,PHP,SCSS,Makefile,Less,Kotlin?"/>
+  <img src="https://github-stats-on-readme.vercel.app/api?username=phantom-98&theme=buefy&raw_cache=no-store"/>
+  <img src="https://github-stats-on-readme.vercel.app/api/top-langs?username=phantom-98&raw_cache=no-store&size_weight=0&count_weight=1&theme=buefy&layout=compact&langs_count=8&hide=MDX,shell,Dockerfile,Vue,Blade,PHP,SCSS,Makefile,Less,Kotlin"/>
 </p>
 
 ## Projects
