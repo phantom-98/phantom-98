@@ -107,14 +107,14 @@
 
 ## Projects
 
-- [https://meet.airtime.com](https://meet.airtime.com) [https://github.com/phantom-98/airtime-meet]((private yet))
-- [https://app.rylka.ai](https://app.rylka.ai) [https://github.com/phantom-98/rylka]((private yet))
-- [https://nefentus.com](https://nefentus.com) [https://github.com/phantom-98/nefentus-website]((public))
-- [https://jsonscout.com](https://jsonscout.com) [https://github.com/phantom-98/json-scout-frontend]((public))
-- [https://apenox.com](https://apenox.com) [https://github.com/phantom-98/brane-frontend]((public))
-- [https://simple-meet.vercel.app](https://simple-meet.vercel.app) [https://github.com/phantom-98/video-conference-app]((public))
-- [https://mint-solana-token.vercel.app](https://mint-solana-token.vercel.app) [https://github.com/phantom-98/solana-token-mint-service]((public))
-- [https://anticonceptivo.cl](https://anticonceptivo.cl) [https://github.com/phantom-98/anticonceptivo_b2c_webapp_laravel]((public))
-- [https://mytender.io](https://mytender.io) [https://github.com/phantom-98/mytender.io]((public))
+- [https://meet.airtime.com](https://meet.airtime.com) [(private yet)](https://github.com/phantom-98/airtime-meet)
+- [https://app.rylka.ai](https://app.rylka.ai) [(private yet)](https://github.com/phantom-98/rylka)
+- [https://nefentus.com](https://nefentus.com) [(public)](https://github.com/phantom-98/nefentus-website)
+- [https://jsonscout.com](https://jsonscout.com) [(public)](https://github.com/phantom-98/json-scout-frontend)
+- [https://apenox.com](https://apenox.com) [(public)](https://github.com/phantom-98/brane-frontend)
+- [https://simple-meet.vercel.app](https://simple-meet.vercel.app) [(public)](https://github.com/phantom-98/video-conference-app)
+- [https://mint-solana-token.vercel.app](https://mint-solana-token.vercel.app) [(public)](https://github.com/phantom-98/solana-token-mint-service)
+- [https://anticonceptivo.cl](https://anticonceptivo.cl) [(public)](https://github.com/phantom-98/anticonceptivo_b2c_webapp_laravel)
+- [https://mytender.io](https://mytender.io) [(public)](https://github.com/phantom-98/mytender.io)
 
 ...
