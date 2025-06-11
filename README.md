@@ -107,7 +107,7 @@
 
 ## Projects
 
-- [https://meet.airtime.com](https://meet.airtime.com) [(private yet)](https://github.com/phantom-98/airtime-meet)
+- [https://meet.airtime.com](https://meet.airtime.com) [(public)](https://github.com/phantom-98/airtime-meet)
 - [https://app.rylka.ai](https://app.rylka.ai) [(private yet)](https://github.com/phantom-98/rylka)
 - [https://nefentus.com](https://nefentus.com) [(public)](https://github.com/phantom-98/nefentus-website)
 - [https://jsonscout.com](https://jsonscout.com) [(public)](https://github.com/phantom-98/json-scout-frontend)
