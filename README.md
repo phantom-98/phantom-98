@@ -109,7 +109,7 @@
 
 - [https://meet.airtime.com](https://meet.airtime.com) [(public)](https://github.com/phantom-98/airtime-meet)
 - [https://app.rylka.ai](https://app.rylka.ai) [(private yet)](https://github.com/phantom-98/rylka)
-- [https://nefentus.com](https://nefentus.com) [(public)](https://github.com/phantom-98/nefentus-website)
+- [https://nefentus.com](https://nefentus.com) [(private)](https://github.com/phantom-98/nefentus-website)
 - [https://jsonscout.com](https://jsonscout.com) [(public)](https://github.com/phantom-98/json-scout-frontend)
 - [https://apenox.com](https://apenox.com) [(public)](https://github.com/phantom-98/brane-frontend)
 - [https://simple-meet.vercel.app](https://simple-meet.vercel.app) [(public)](https://github.com/phantom-98/video-conference-app)
